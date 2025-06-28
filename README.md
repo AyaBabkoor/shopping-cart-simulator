@@ -1,4 +1,4 @@
-# Shopping Cart Simulator
+# Shopping Cart Simulator – JavaFX
 
 This is a JavaFX desktop application simulating shopping cart behavior. The project demonstrates the use of design patterns to manage user actions and product structures.
 
